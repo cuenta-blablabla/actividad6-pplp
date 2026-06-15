@@ -1,0 +1,2 @@
+El servidor devuelve el JSON:
+{"estado":"Datos recibidos","nombre":"Maria","mensaje":"Hola comunidad"}

@@ -1,0 +1,4 @@
+{
+  "tipo": "Refrigerios",
+  "descripcion": "La comunidad reporta que los niños están pasando hambre en el colegio porque ya no hay meriendas."
+}

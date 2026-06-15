@@ -1,0 +1,10 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los
+ciudadanos de forma estructurada porque esto facilita el almacenamiento, procesamiento y análisis de
+los datos. Cuando la información se envía siguiendo un formato definido, los sistemas pueden
+interpretarla correctamente, reducir errores y clasificar los reportes de manera automática según 
+criterios como su categoría, ubicación o nivel de urgencia.
+
+Las API que utilizan el método POST cumplen un papel fundamental, ya que permiten que aplicaciones,
+formularios y otros sistemas envíen información al servidor de forma organizada y segura. Gracias a 
+ello, los ciudadanos pueden reportar situaciones que afectan a su comunidad, como daños en 
+infraestructura, problemas de seguridad o fallas en servicios públicos.
